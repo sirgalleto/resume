@@ -15,7 +15,11 @@ Believer of public and free divulgation of knowledge, co-organized of GDLJS, the
 
 ## Experience 
 
-`May 2019 - Present` 
+`Aug 2021 - Present` 
+__Sr. Frontend Developer at [Shopify](http://shopify.com/)__, Remote.
+
+
+`May 2019 - Aug 2021` 
 __Sr. Software Engineer at [Skycatch](http://skycatch.com/)__, Guadalajara, Mex.
 
 - _Key responsibilities_
