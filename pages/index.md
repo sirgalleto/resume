@@ -16,7 +16,7 @@ Believer of public and free divulgation of knowledge, co-organized of GDLJS, the
 ## Experience 
 
 `Aug 2021 - Present` 
-__Sr. Frontend Developer at [Shopify](http://shopify.com/)__, Remote.
+__Sr. Frontend Developer at [Shopify](http://shopify.com/)__, Remote, Guadalajara, Mex.
 
 
 `May 2019 - Aug 2021` 
@@ -46,7 +46,7 @@ __Software Engineer II at [Wizeline](http://wizeline.com/)__, Guadalajara, Mex.
     - Lecturer of a Javascript academy for +120 people. 
 
 `Jul 2016 - Dev 2016` 
-__FullStack Developer at [Millenium studio](https://www.linkedin.com/company/millenium-studio/about/)__, Remote.
+__FullStack Developer at [Millenium studio](https://www.linkedin.com/company/millenium-studio/about/)__, Remote, Bogotá, Colombia.
 
 - _Key responsibilities_
     - Build the web application of a product that sells private gaming services. 
@@ -54,14 +54,14 @@ __FullStack Developer at [Millenium studio](https://www.linkedin.com/company/mil
     - Implementation of the recurrent payment system into the platform. 
 
 `Jan 2016 - Jul 2017`
-__FullStack Developer at City Drive__, Guadalajara, Mexico.
+__FullStack Developer at City Drive__, Remote, Bogotá, Colombia.
 
 - _Key responsibilities_
     - Built different internal tools to improve the new drivers training time.
     - Implementation of the third party payment integration. 
 
 `Jul 2015 - Dec 2015`
-__FullStack Developer at [Tejuino](https://tejuino.mx/)__, Guadalajara, Mexico.
+__FullStack Developer at [Tejuino](https://tejuino.mx/)__, Remote, Bogotá, Colombia.
 
 - _Key responsibilities_ 
     - Plan, develop, and deploy pixel-perfect web Applications used to leverage the marketing of different companies.
