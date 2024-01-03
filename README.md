@@ -15,7 +15,25 @@ Believer of public and free divulgation of knowledge, co-organized of GDLJS, the
 
 ## Experience 
 
-`May 2019 - Present` 
+`Aug 2021 - Present` 
+__Sr. Frontend Developer at [Shopify](http://shopify.com/)__, Remote, Guadalajara, Mex.
+
+- _Key Responsibilities_
+    - Initially joined the Growth Team to conduct platform experiments, focusing on optimizing user experience and increasing platform engagement. 
+    - Transitioned to the Core Delivery Team, where I am instrumental in enhancing Shopify's fulfillment capabilities through innovative front-end solutions. 
+    - Lead multiple projects aimed at improving Shopify's admin learning system, ensuring a seamless and intuitive user interface for efficient management. 
+    - Spearheaded the development of full-stack ad attribution tools, integrating front-end technologies with back-end systems for comprehensive ad performance tracking. 
+    - Played a role in enhancing Shopify's React Native applications, focusing on application feature pairing with the web admin.
+    - Contributed significantly to the web admin interface, implementing front-end improvements for a more robust and user-friendly experience. 
+    - Engaged in full-stack development for several projects, demonstrating versatility in handling both front-end and back-end aspects of software development. 
+    - Collaborated closely with cross-functional teams to ensure the timely and successful delivery of front-end solutions, aligning with Shopify's strategic goals.
+
+- _Key Accomplishments_
+    - Served as a mentor to an intern, guiding them through complex projects and aiding in their professional development. 
+    - Developed and implemented automation scripts to ensure comprehensive test coverage during a significant platform migration, enhancing overall system reliability. 
+    - Successfully shipped multiple features used by millions of Shopify users, significantly contributing to the platform's growth and user satisfaction.
+
+`May 2019 - Aug 2021` 
 __Sr. Software Engineer at [Skycatch](http://skycatch.com/)__, Guadalajara, Mex.
 
 - _Key responsibilities_
@@ -41,23 +59,23 @@ __Software Engineer II at [Wizeline](http://wizeline.com/)__, Guadalajara, Mex.
     - Mentored +20 trainees and onboarding engineers. 
     - Lecturer of a Javascript academy for +120 people. 
 
-`Jul 2016 - Dev 2016` 
-__FullStack Developer at [Millenium studio](https://www.linkedin.com/company/millenium-studio/about/)__, Remote.
+`Jul 2016 - Dec 2016` 
+__FullStack Developer at [Millenium studio](https://www.linkedin.com/company/millenium-studio/about/)__, Remote, Bogotá, Colombia.
 
 - _Key responsibilities_
     - Build the web application of a product that sells private gaming services. 
 - _Key accomplishments_
     - Implementation of the recurrent payment system into the platform. 
 
-`Jan 2016 - Jul 2017`
-__FullStack Developer at City Drive__, Guadalajara, Mexico.
+`Jan 2016 - Jul 2016`
+__FullStack Developer at City Drive__, Remote, Bogotá, Colombia.
 
 - _Key responsibilities_
     - Built different internal tools to improve the new drivers training time.
     - Implementation of the third party payment integration. 
 
 `Jul 2015 - Dec 2015`
-__FullStack Developer at [Tejuino](https://tejuino.mx/)__, Guadalajara, Mexico.
+__FullStack Developer at [Tejuino](https://tejuino.mx/)__, Remote, Bogotá, Colombia.
 
 - _Key responsibilities_ 
     - Plan, develop, and deploy pixel-perfect web Applications used to leverage the marketing of different companies.
@@ -134,8 +152,3 @@ GDLJS is the JavaScript open community in Guadalajara, Mexico. With monthly meet
     - Launched the first event that joined the two most significant Javascript communities in Mexico, the EventLoop and the GDLJS in one place. Hosted in two locations with more than 250 attendees and the participation of recognized engineers in the industry. 
     - Help with the creation of GDLDevComms, the alliance of the city’s communities with the objective of grow the content delivered to the Guadalajara’s technology open communities. 
     - Developed with the GdlDevComms the PosaDev Conf 2017 - 2018, a free yearly one day conference covering general topics in the Technology field. 
-
-<!-- ### Footer
-
-Last updated: October 2020- -->
-
